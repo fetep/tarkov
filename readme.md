@@ -11,4 +11,4 @@ Various compiled information for betterment of greatness of mother Tarkov. Hail 
 * [Ammo Spreadsheet](https://docs.google.com/spreadsheets/d/1-q1Yiof1FfGBlIoudl799BFyx_fMYEGt-TP2Itci4z0/)
 
 ## Misc
-![](images/QuestItems.jpg)
+![](images/QuestItems.jpg){:target="_blank"}
