@@ -8,7 +8,7 @@ Various compiled information for betterment of greatness of mother Tarkov. Hail 
 
 ## Links
 
-* <a href="https://docs.google.com/spreadsheets/d/1-q1Yiof1FfGBlIoudl799BFyx_fMYEGt-TP2Itci4z0" target="_blank">Ammo Spreadsheet</a>
+* [Ammo Spreadsheet](https://docs.google.com/spreadsheets/d/1-q1Yiof1FfGBlIoudl799BFyx_fMYEGt-TP2Itci4z0/)
 
 ## Misc
 ![](images/QuestItems.jpg)
