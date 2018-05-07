@@ -2,5 +2,5 @@
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| ![Quest Items](images/QuestItems.jpg)  | Content Cell  |
+| ![](images/QuestItems.jpg | width=100)  | Content Cell  |
 | Content Cell  | Content Cell  |
