@@ -2,5 +2,5 @@
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| ![](images/QuestItems.jpg =100x)  | Content Cell  |
+| <img src="images/QuestItems.jpg" width="100")  | Content Cell  |
 | Content Cell  | Content Cell  |
