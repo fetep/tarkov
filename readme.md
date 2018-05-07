@@ -1,6 +1,8 @@
 # Tarkov Links and St uff
 
-|   |   |
-| ------------- | ------------- |
-| <img src="images/QuestItems.jpg" width="100">  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Interchange Map | Customs Map | Customs Map |
+| ------------- | ------------- | ------------- |
+| <img src="images/QuestItems.jpg" width="100">  | <img src="images/QuestItems.jpg" width="100"> | <img src="images/QuestItems.jpg" width="100"> |
+| **Quest Items** | **Content Cell**  | **Content Cell**  |
+| <img src="images/QuestItems.jpg" width="100"> | <img src="images/QuestItems.jpg" width="100"> | <img src="images/QuestItems.jpg" width="100"> |
+| **Interchange Map** | **Content Cell**  | **Content Cell**  |
