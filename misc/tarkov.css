@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Bender";
+  src: url("Bender.eot?") format("eot"),
+  url("Bender.woff") format("woff"),
+  url("Bender.ttf") format("truetype");
+}
+
+p {
+	font-family: "Bender";
+}
