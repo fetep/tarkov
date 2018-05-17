@@ -6,5 +6,22 @@
 }
 
 li {
-	font-family: "Bender";
+    font-family: "Bender";
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+a {
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+li{
+  margin: 10px 0;
 }
