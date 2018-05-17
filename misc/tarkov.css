@@ -1,8 +1,8 @@
 @font-face {
-  font-family: "Bender";
-  src: url("Bender.eot?") format("eot"),
-  url("Bender.woff") format("woff"),
-  url("Bender.ttf") format("truetype");
+    font-family: "Bender";
+    src: url("Bender.eot?") format("eot"),
+    url("Bender.woff") format("woff"),
+    url("Bender.ttf") format("truetype");
 }
 
 body {
@@ -15,8 +15,8 @@ h2{
 }
 
 li{
-  margin: 10px 0;
-  color: white;
+    margin: 10px 0;
+    color: white;
 }
 
 a {
