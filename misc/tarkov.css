@@ -5,6 +5,6 @@
   url("Bender.ttf") format("truetype");
 }
 
-p {
+li {
 	font-family: "Bender";
 }
