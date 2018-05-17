@@ -5,17 +5,9 @@
   url("Bender.ttf") format("truetype");
 }
 
-li {
-    font-family: "Bender";
-    color: white;
-}
-
 body {
+    font-family: "Bender";
     background-color: black;
-}
-
-a {
-    color: white;
 }
 
 h2{
@@ -24,4 +16,9 @@ h2{
 
 li{
   margin: 10px 0;
+  color: white;
+}
+
+a {
+    color: white;
 }
