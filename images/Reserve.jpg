@@ -1,0 +1,13 @@
+--2019-12-25 17:52:09--  https://preview.redd.it/wht3tbbnauv31.jpg?width=960&format=pjpg&auto=webp&s=f46209c9db10bce419e5c294591f7e3a401e8c43
+Resolving preview.redd.it (preview.redd.it)... 151.101.209.140
+Connecting to preview.redd.it (preview.redd.it)|151.101.209.140|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 141587 (138K) [image/jpeg]
+Saving to: ‘wht3tbbnauv31.jpg?width=960&format=pjpg&auto=webp&s=f46209c9db10bce419e5c294591f7e3a401e8c43’
+
+     0K .......... .......... .......... .......... .......... 36% 1.41M 0s
+    50K .......... .......... .......... .......... .......... 72% 2.83M 0s
+   100K .......... .......... .......... ........             100% 25.4M=0.05s
+
+2019-12-25 17:52:09 (2.53 MB/s) - ‘wht3tbbnauv31.jpg?width=960&format=pjpg&auto=webp&s=f46209c9db10bce419e5c294591f7e3a401e8c43’ saved [141587/141587]
+
